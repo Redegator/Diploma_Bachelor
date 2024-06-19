@@ -1,4 +1,4 @@
-setwd("D:/Диплом")
+setwd("D:/Diploma")
 getwd()
 
 library(purrr)
